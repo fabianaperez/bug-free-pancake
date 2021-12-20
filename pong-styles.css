@@ -76,6 +76,7 @@ body {
 .ball {
   background-image:url("heart-ball.png");
   position: absolute;
+  
 }
 
 .score {
