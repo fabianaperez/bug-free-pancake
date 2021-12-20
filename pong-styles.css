@@ -75,7 +75,6 @@ body {
 
 .ball {
   background-image:url("heart-ball.png");
-  position: absolute;
   left: 50px;
   top: 50px;
 }
