@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "https://fabianaperez.github.io/bug-free-pancake/sounds" + file,
+      url: "https://fabianaperez.github.io/bug-free-pancake/javascript/Tone.js" + file,
       loop: false,
       autostart: false
     }).toMaster();
