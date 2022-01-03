@@ -43,10 +43,10 @@ export var soundArray = []; //list of sounds loaded
 
 //Here is where all the Sound File Players Start
 
-export var wallSound = new soundFile("tap-percussive.mp3"); //load sound
+export var wallSound = new soundFile("wallsound"); //load sound
 soundArray.push(wallSound); //add sound to list of sounds
 
-export var paddleSound = new soundFile("tap-resonant.mp3");
+export var paddleSound = new soundFile("drip.mp3");
 soundArray.push(paddleSound);
 
 export var scoreSound = new soundFile("tap-percussive.mp3");
