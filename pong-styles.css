@@ -74,13 +74,13 @@ body {
 }
 
 .ball {
-  width: 40px;
-  height: 40px;
-  background-image: url("heart-ball.svg");
-  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  background-image: url("heart-ball.png");
+  border-radius: 10px;
   position: absolute;
-  left: 100px;
-  top: 100px;
+  left: 50px;
+  top: 50px;
   
 }
 
